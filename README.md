@@ -1,4 +1,4 @@
-# devopsi_lab42
+# devops_lab42
 
 Лекции:
 [Вторая лекция (вспомним основы Linux)](/2.Linux)
